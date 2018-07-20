@@ -13,7 +13,7 @@ public class PolyMorphism {
 		System.out.println(apple.name);
 		System.out.println(banana.name);
 		
-		fruit.fruit(); //
+		fruit.fruit(); 
 		apple.fruit();
 		banana.fruit();
 	}
